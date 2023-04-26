@@ -12,6 +12,11 @@ public class AtmApp {
         //version4
         System.out.println("Suray branchi kodlarini yazdi.");
         //sry1
+        System.out.println("");
+        //nsb3
+        System.out.println();
+        if (true){}
+
 
 
 
