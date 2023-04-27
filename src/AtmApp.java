@@ -13,10 +13,11 @@ public class AtmApp {
         System.out.println("Suray branchi kodlarini yazdi.");
         //sry1
         System.out.println("");
-        //nsb3
+        //sry2
         System.out.println();
-        if (true){}
+        //sry3
         //localde degisiklik yaptim.
+        //remoteda degisiklik yaptim
 
 
 
